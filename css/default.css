@@ -1,0 +1,19 @@
+body {background-color: #FFFFCC; margin: 1em; padding: 0;}
+
+a:link {color: #003399;} a:visited {color: #663399;} a:hover {color: #FFFF99;background-color: #333333;	text-decoration: none;} a:active {color: #CC0000;}
+
+#footer {padding: 8px; font-family: Arial, "sans serif"; font-size: 94%; text-align: center; color: #000000;}
+
+h1 {font-family: Arial, "sans serif"; color: #000000; font-size: 160%;}
+
+h2 {font-family: Arial, "sans serif"; color: #000000; font-size: 130%;}
+
+p {font-family: Arial, "sans serif"; color: #000000; font-size: 100%;}
+
+.fontbodylink {font-family: Arial, "sans serif"; color: #000000; font-size: 130%}
+
+.fontbodylarge {font-family: Verdana, "sans serif"; color: #000000; font-size: 120%}
+
+.fontbodymedium {font-family: Arial, "sans serif"; color: #000000; font-size: 115%}
+
+.fontbodysmall {font-family: Verdana, "sans serif"; color: #000000; font-size: 100%}
